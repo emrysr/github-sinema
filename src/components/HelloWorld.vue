@@ -6,7 +6,7 @@
       Vite Documentation
     </a>
     |
-    <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
+    <a href="https://vercel.com" target="_blank">Deployed on vercel.com</a>
   </p>
 
   <button type="button" @click="state.count++">count is: {{ state.count }}</button>
